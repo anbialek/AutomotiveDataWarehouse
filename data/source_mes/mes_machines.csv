@@ -1,0 +1,8 @@
+machine_code,machine_name,line_code,process_code,is_active
+INJ_01,Injection FB Machine 1,LINE_1,INJ,True
+PNT_01,Paint Booth FB 1,LINE_1,PNT,True
+INJ_01,Injection RB Machine 1,LINE_2,INJ,True
+PNT_01,Paint Booth RB 1,LINE_2,PNT,True
+INJ_01,Injection Dashboard 1,LINE_3,INJ,True
+STC_01,Soft Touch DB 1,LINE_3,STC,True
+INJ_01,Injection Door Panel 1,LINE_4,INJ,True

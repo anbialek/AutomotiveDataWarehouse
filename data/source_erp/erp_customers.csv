@@ -1,0 +1,6 @@
+customer_code,customer_name,valid_from,valid_to
+CUST_A, Future Transport Technologies ,1900-01-01,2026-12-31
+CUST_B,Mobility Solutions,2025-02-01,2027-03-31
+ CUST_C, Vehicle Engineering Systems,2018-01-01,2026-12-31
+CUST_D,Driving Intelligence ,2019-01-01,2025-06-31
+CUST_D,Driving Intelligence ,2019-01-01,2024-06-31

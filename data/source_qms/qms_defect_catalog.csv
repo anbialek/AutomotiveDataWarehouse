@@ -1,0 +1,14 @@
+defect_type,defect_category,defect_code,stage
+thin_coating,major,P1,PNT
+adhesion_failure,major,P2,PNT
+orange_peel,minor,P3,PNT
+dust_inclusion,minor,P4,PNT
+delamination,major,S1,STC
+color_variation,minor,S2,STC
+adhesion_failure,major,S3,STC
+uneven_surface,minor,S4,STC
+short_shot,major,I1,INT
+flash,minor,I2,INT
+warping,major,I3,INT
+sink_mark,minor,I4,INT
+bubble,minor,I5,INT

@@ -1,0 +1,5 @@
+line_code,line_name,plant,production_area
+LINE_1,Front Bumper Line,PLANT_1,Automotive Exterior
+LINE_2,Rear Bumper Line,PLANT_1,Automotive Exterior
+LINE_3,Dashboard Line,PLANT_1,Automotive Interior
+LINE_4,Door Panel Line,PLANT_2,Automotive Interior
