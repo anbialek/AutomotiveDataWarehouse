@@ -54,7 +54,6 @@ jupyter notebook
 
 PostgreSQL est déployé via Docker.
 La connexion est réalisée via DBeaver avec les paramètres standard (host, port, database, user, password).
----
 
 
 ### 🇬🇧 Summary (for non-French readers)
